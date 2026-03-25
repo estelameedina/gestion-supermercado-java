@@ -43,6 +43,15 @@ Aplicación desarrollada en Java que simula la gestión de productos en un super
 3. Ejecutar la clase `Main`  
 
 ---
+## Ejemplo de salida
+
+Producto con nombre: manzana añadido correctamente
+
+***VENDIENDO PRODUCTO***
+Producto vendido correctamente
+
+***ERROR***
+Producto no disponible
 
 ## Estado
 Proyecto desarrollado con fines formativos.
